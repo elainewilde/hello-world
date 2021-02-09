@@ -1,4 +1,4 @@
-#Elaine Wilde 1671617
+# 1671617
 
 print('Birthday Calculator')
 print('Current Day')
