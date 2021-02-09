@@ -1,4 +1,4 @@
-# 1671617
+#Elaine Wilde 1671617
 
 wall_height = int(input('Enter wall height (feet):\n'))
 wall_width = int(input('Enter wall width (feet):\n'))
